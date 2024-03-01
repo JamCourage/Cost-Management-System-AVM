@@ -1,4 +1,6 @@
 # Cost Management System AVM
+Written by JamCourage       
+
 **主題類別**            
 Cost Management, Pricing Strategy, AVM, Opearations Management                      
 
